@@ -10,11 +10,11 @@
     <name>Blog author</name>
   </author>
   <entry>
-    <title>visit Zürich's sweet spots that aren’t in the guidebooks</title>
+    <title>Visit Zürich's sweet spots that aren’t in the guidebooks</title>
     <link rel="alternate" href="http://blog.url.com/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html"/>
     <id>http://blog.url.com/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html</id>
     <published>2015-03-16T03:50:25Z</published>
-    <updated>2015-03-18T19:24:51+00:00</updated>
+    <updated>2015-03-18T19:39:23+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -40,7 +40,7 @@
     <link rel="alternate" href="http://blog.url.com/2015/03/13/zurich-s-most-famous-sausage-stand.html"/>
     <id>http://blog.url.com/2015/03/13/zurich-s-most-famous-sausage-stand.html</id>
     <published>2015-03-13T10:22:46Z</published>
-    <updated>2015-03-18T19:24:50+00:00</updated>
+    <updated>2015-03-18T19:39:22+00:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -49,9 +49,7 @@
   &lt;div class="article"&gt;
     &lt;p&gt;&lt;dummy&gt;      &lt;body&gt;
       The Sternen Grill at Bellevue is fast food Zurich style, where you will get a grilled&amp;nbsp; Bratwurst, Cervelat, crusty bread rolls (Bürli), homemade spicy mustard and their famous Sternen Bier. It is not fancy, no place to sit down, the people behind the grill are not very friendly but it is still the place to be and you should definitely try one of their sausages. 
-     &lt;span style=" font-size: 14px;"&gt;www.&lt;/span&gt; 
-     &lt;b style=" font-size: 14px;"&gt;sternengrill&lt;/b&gt; 
-     &lt;span style=" font-size: 14px;"&gt;.ch/&lt;/span&gt; 
+     &lt;a href="http://www.sternengrill.ch/" rel="nofollow"&gt;&lt;span style=" font-size: 14px;"&gt;www.&lt;/span&gt;&lt;b style=" font-size: 14px;"&gt;sternengrill&lt;/b&gt;&lt;span style=" font-size: 14px;"&gt;.ch/&lt;/span&gt;&lt;/a&gt; 
      &lt;br&gt; 
      &lt;a style="" rel="nofollow"&gt; &lt;/p&gt;
     
