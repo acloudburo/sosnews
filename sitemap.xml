@@ -43,6 +43,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://blog.url.com/2015/01/29/meat-enthusiasts.html</loc>
+    <lastmod>2015-03-22</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://blog.url.com/2014/11/14/not-your-ordinary-place-to-eat-cheese-fondue.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.7</priority>
@@ -241,8 +247,26 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://blog.url.com/menu1.html</loc>
+    <lastmod>2015-03-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://blog.url.com/menu3.html</loc>
+    <lastmod>2015-03-21</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://blog.url.com/</loc>
     <lastmod>2015-03-06</lastmod>
+    <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://blog.url.com/menu2.html</loc>
+    <lastmod>2015-03-21</lastmod>
     <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
@@ -250,6 +274,12 @@
     <loc>http://blog.url.com/simple/about1.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://blog.url.com/menu4.html</loc>
+    <lastmod>2015-03-21</lastmod>
+    <priority>1.0</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
@@ -328,6 +358,12 @@
     <loc>http://blog.url.com/2015/01.html</loc>
     <lastmod>2015-03-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://blog.url.com/2015/01/29.html</loc>
+    <lastmod>2015-03-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
