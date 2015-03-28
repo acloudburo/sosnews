@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>zurich4u</title>
-  <subtitle>Favourite places in Zurich by Hotel Plattenhof and Townhouse</subtitle>
-  <id>http://blog.url.com</id>
-  <link href="http://blog.url.com"/>
-  <link href="http://blog.url.com/feed.xml" rel="self"/>
+  <subtitle>Everything about Zurich</subtitle>
+  <id>https://zurich4u.ch/</id>
+  <link href="https://zurich4u.ch/"/>
+  <link href="https://zurich4u.ch/feed.xml" rel="self"/>
   <updated>2015-03-22T09:53:43Z</updated>
   <author>
-    <name>Blog author</name>
+    <name>zurich4u</name>
   </author>
   <entry>
     <title>Digital Art Installation on Bahnhofstrasse</title>
-    <link rel="alternate" href="http://blog.url.com/2015/03/22/digital-art-installation-on-bahnhofstrasse.html"/>
-    <id>http://blog.url.com/2015/03/22/digital-art-installation-on-bahnhofstrasse.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/03/22/digital-art-installation-on-bahnhofstrasse.html"/>
+    <id>https://zurich4u.ch/2015/03/22/digital-art-installation-on-bahnhofstrasse.html</id>
     <published>2015-03-22T09:53:43Z</published>
-    <updated>2015-03-23T14:08:28+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -47,10 +47,10 @@
   </entry>
   <entry>
     <title>Visit Zürich's sweet spots that aren’t in the guidebooks</title>
-    <link rel="alternate" href="http://blog.url.com/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html"/>
-    <id>http://blog.url.com/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html"/>
+    <id>https://zurich4u.ch/2015/03/16/visit-zurich-s-sweet-spots-that-arent-in-the-guidebooks.html</id>
     <published>2015-03-16T03:50:25Z</published>
-    <updated>2015-03-18T20:03:57+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -74,10 +74,10 @@
   </entry>
   <entry>
     <title>Zurich's most famous sausage stand</title>
-    <link rel="alternate" href="http://blog.url.com/2015/03/13/zurich-s-most-famous-sausage-stand.html"/>
-    <id>http://blog.url.com/2015/03/13/zurich-s-most-famous-sausage-stand.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/03/13/zurich-s-most-famous-sausage-stand.html"/>
+    <id>https://zurich4u.ch/2015/03/13/zurich-s-most-famous-sausage-stand.html</id>
     <published>2015-03-13T10:22:46Z</published>
-    <updated>2015-03-21T16:34:01+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -100,10 +100,10 @@
   </entry>
   <entry>
     <title>Japanese Inspirations at the Kunsthaus - well curated exhibition</title>
-    <link rel="alternate" href="http://blog.url.com/2015/02/27/japanese-inspirations-at-the-kunsthaus-well-curated-exhibition.html"/>
-    <id>http://blog.url.com/2015/02/27/japanese-inspirations-at-the-kunsthaus-well-curated-exhibition.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/02/27/japanese-inspirations-at-the-kunsthaus-well-curated-exhibition.html"/>
+    <id>https://zurich4u.ch/2015/02/27/japanese-inspirations-at-the-kunsthaus-well-curated-exhibition.html</id>
     <published>2015-02-27T03:36:15Z</published>
-    <updated>2015-03-06T15:31:53+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -127,10 +127,10 @@
   </entry>
   <entry>
     <title>Go to a movie theater in Zurich</title>
-    <link rel="alternate" href="http://blog.url.com/2015/02/09/go-to-a-movie-theater-in-zurich.html"/>
-    <id>http://blog.url.com/2015/02/09/go-to-a-movie-theater-in-zurich.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/02/09/go-to-a-movie-theater-in-zurich.html"/>
+    <id>https://zurich4u.ch/2015/02/09/go-to-a-movie-theater-in-zurich.html</id>
     <published>2015-02-09T01:39:27Z</published>
-    <updated>2015-03-06T18:34:52+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -163,10 +163,10 @@
   </entry>
   <entry>
     <title>Restaurant George - high above the Casino and Zurich's rooftops</title>
-    <link rel="alternate" href="http://blog.url.com/2015/02/09/restaurant-george-high-above-the-casino-and-zurich-s-rooftops.html"/>
-    <id>http://blog.url.com/2015/02/09/restaurant-george-high-above-the-casino-and-zurich-s-rooftops.html</id>
+    <link rel="alternate" href="https://zurich4u.ch/2015/02/09/restaurant-george-high-above-the-casino-and-zurich-s-rooftops.html"/>
+    <id>https://zurich4u.ch/2015/02/09/restaurant-george-high-above-the-casino-and-zurich-s-rooftops.html</id>
     <published>2015-02-09T01:23:21Z</published>
-    <updated>2015-03-06T15:31:53+00:00</updated>
+    <updated>2015-03-28T09:34:19+01:00</updated>
     <author>
       <name>Article Author</name>
     </author>
