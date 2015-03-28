@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>zurich4u</title>
-  <subtitle>Everything about Zurich</subtitle>
+  <subtitle>Favourite places in Zurich by Hotel Plattenhof and Townhouse</subtitle>
   <id>https://zurich4u.ch/</id>
   <link href="https://zurich4u.ch/"/>
   <link href="https://zurich4u.ch/feed.xml" rel="self"/>
