@@ -331,6 +331,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://zurich4u.ch//2016/02/29/a-world-in-colour.html</loc>
+    <lastmod>2016-02-29</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://zurich4u.ch//2016/02/17/enjoy-zermatt-cheese-fondue-on-mt-zurich.html</loc>
     <lastmod>2016-02-24</lastmod>
     <priority>0.7</priority>
@@ -430,6 +436,12 @@
     <loc>https://zurich4u.ch//2016/02.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch//2016/02/29.html</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
