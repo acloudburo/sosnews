@@ -187,6 +187,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://zurich4u.ch//2016/03/02/unique-fashion-accessories.html</loc>
+    <lastmod>2016-03-02</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://zurich4u.ch//2015/02/09/go-to-a-movie-theater-in-zurich.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.7</priority>
@@ -442,6 +448,12 @@
     <loc>https://zurich4u.ch//2016/03.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch//2016/03/02.html</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
