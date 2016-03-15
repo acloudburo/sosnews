@@ -91,6 +91,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://zurich4u.ch//2016/03/15/for-lovers-of-good-architecture.html</loc>
+    <lastmod>2016-03-15</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://zurich4u.ch//2014/11/20/ice-skating-at-the-dolder-open-air-ice-skating-rink.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.7</priority>
@@ -448,6 +454,12 @@
     <loc>https://zurich4u.ch//2016/03.html</loc>
     <lastmod>2016-01-08</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch//2016/03/15.html</loc>
+    <lastmod>2016-01-08</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
