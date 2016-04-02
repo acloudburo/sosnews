@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>zurich4u</title>
-  <subtitle>Favourite places in Zurich by Hotel Plattenhof and Townhouse</subtitle>
-  <id>https://zurich4u.ch/</id>
-  <link href="https://zurich4u.ch/"/>
-  <link href="https://zurich4u.ch/feed.xml" rel="self"/>
+  <subtitle></subtitle>
+  <id>https://sosnews.zurich4u.ch</id>
+  <link href="https://sosnews.zurich4u.ch"/>
+  <link href="https://sosnews.zurich4u.ch/feed.xml" rel="self"/>
   <updated>2016-03-15T14:48:46Z</updated>
   <author>
-    <name>zurich4u</name>
+    <name></name>
   </author>
   <entry>
     <title>For lovers of good architecture</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/03/15/for-lovers-of-good-architecture.html"/>
-    <id>https://zurich4u.ch/2016/03/15/for-lovers-of-good-architecture.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/03/15/for-lovers-of-good-architecture.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/03/15/for-lovers-of-good-architecture.html</id>
     <published>2016-03-15T14:48:46Z</published>
-    <updated>2016-03-19T11:04:05+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -58,10 +58,10 @@
   </entry>
   <entry>
     <title>Unique fashion accessories</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/03/02/unique-fashion-accessories.html"/>
-    <id>https://zurich4u.ch/2016/03/02/unique-fashion-accessories.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/03/02/unique-fashion-accessories.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/03/02/unique-fashion-accessories.html</id>
     <published>2016-03-02T17:20:09Z</published>
-    <updated>2016-03-13T16:03:44+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -100,10 +100,10 @@
   </entry>
   <entry>
     <title>Fifa's soccer museum</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/03/01/fifa-s-soccer-museum.html"/>
-    <id>https://zurich4u.ch/2016/03/01/fifa-s-soccer-museum.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/03/01/fifa-s-soccer-museum.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/03/01/fifa-s-soccer-museum.html</id>
     <published>2016-03-01T11:37:07Z</published>
-    <updated>2016-03-13T16:03:42+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -154,10 +154,10 @@
   </entry>
   <entry>
     <title>A world in colour</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/02/29/a-world-in-colour.html"/>
-    <id>https://zurich4u.ch/2016/02/29/a-world-in-colour.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/02/29/a-world-in-colour.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/02/29/a-world-in-colour.html</id>
     <published>2016-02-29T15:58:43Z</published>
-    <updated>2016-03-18T07:44:59+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -191,10 +191,10 @@
   </entry>
   <entry>
     <title>The latest trends in contemporary art</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/02/25/the-latest-trends-in-contemporary-art.html"/>
-    <id>https://zurich4u.ch/2016/02/25/the-latest-trends-in-contemporary-art.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/02/25/the-latest-trends-in-contemporary-art.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/02/25/the-latest-trends-in-contemporary-art.html</id>
     <published>2016-02-25T14:26:42Z</published>
-    <updated>2016-02-25T19:10:17+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
@@ -227,10 +227,10 @@
   </entry>
   <entry>
     <title>FOR THE MAN WITH BEARD</title>
-    <link rel="alternate" href="https://zurich4u.ch/2016/02/24/for-the-man-with-beard.html"/>
-    <id>https://zurich4u.ch/2016/02/24/for-the-man-with-beard.html</id>
+    <link rel="alternate" href="https://sosnews.zurich4u.ch/2016/02/24/for-the-man-with-beard.html"/>
+    <id>https://sosnews.zurich4u.ch/2016/02/24/for-the-man-with-beard.html</id>
     <published>2016-02-24T17:54:26Z</published>
-    <updated>2016-02-24T21:20:30+00:00</updated>
+    <updated>2016-04-02T15:18:18+02:00</updated>
     <author>
       <name>Article Author</name>
     </author>
