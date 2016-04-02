@@ -7,12 +7,6 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog.html</loc>
-    <lastmod>2016-04-02</lastmod>
-    <priority>1.0</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
     <loc>https://sosnews.zurich4u.ch/contact.html</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>1.0</priority>
@@ -811,31 +805,31 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog/page/2.html</loc>
+    <loc>https://sosnews.zurich4u.ch/page/2/</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog/page/3.html</loc>
+    <loc>https://sosnews.zurich4u.ch/page/3/</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog/page/4.html</loc>
+    <loc>https://sosnews.zurich4u.ch/page/4/</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog/page/5.html</loc>
+    <loc>https://sosnews.zurich4u.ch/page/5/</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
-    <loc>https://sosnews.zurich4u.ch/blog/page/6.html</loc>
+    <loc>https://sosnews.zurich4u.ch/page/6/</loc>
     <lastmod>2016-04-02</lastmod>
     <priority>0.8</priority>
     <changefreq>daily</changefreq>
