@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://sosnews.zurich4u.ch/sitemap.xml
+Sitemap: https://zurich4u.ch/sitemap.xml
