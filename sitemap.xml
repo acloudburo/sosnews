@@ -427,6 +427,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://zurich4u.ch/2016/05/17/gardens-of-the-world.html</loc>
+    <lastmod>2016-05-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://zurich4u.ch/simple/about1.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>0.9</priority>
@@ -466,6 +472,18 @@
     <loc>https://zurich4u.ch/2016.html</loc>
     <lastmod>2016-05-13</lastmod>
     <priority>1.0</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch/2016/05.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch/2016/05/17.html</loc>
+    <lastmod>2016-05-13</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
