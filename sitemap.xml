@@ -445,6 +445,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>https://zurich4u.ch/2016/07/11/swim-in-the-refreshing-river.html</loc>
+    <lastmod>2016-07-11</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>https://zurich4u.ch/simple/about1.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
@@ -490,6 +496,12 @@
     <loc>https://zurich4u.ch/2016/07.html</loc>
     <lastmod>2016-06-16</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://zurich4u.ch/2016/07/11.html</loc>
+    <lastmod>2016-06-16</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
